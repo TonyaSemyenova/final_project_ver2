@@ -1,0 +1,6 @@
+id,название,тип,цена,ширина,длина,высота,материалы,цвета,новое,бренд,url_товара,url_картинки,стиль
+1,Диван угловой Комфорт,диван,45000,250,180,85,ткань;дерево,серый;белый,1,IKEA,https://market.yandex.ru/product/1,https://via.placeholder.com/300,минимализм
+2,Кресло Релакс,кресло,15000,80,90,95,кожа;металл,черный,0,Hoff,https://market.yandex.ru/product/2,https://via.placeholder.com/300,лофт
+3,Стол обеденный Классик,стол,25000,160,90,75,дерево,коричневый,0,Столплит,https://market.yandex.ru/product/3,https://via.placeholder.com/300,классика
+4,Диван прямой Модерн,диван,38000,200,90,80,ткань,бежевый;серый,1,IKEA,https://market.yandex.ru/product/4,https://via.placeholder.com/300,модерн
+5,Шкаф-купе Лофт,шкаф,55000,200,60,220,дерево;стекло,черный;белый,0,Шатура,https://market.yandex.ru/product/5,https://via.placeholder.com/300,лофт
